@@ -1,0 +1,11 @@
+千度搜索引擎开源代码 II
+***
+代码结构：
+━主文件
+┣README.md 说明文件
+┣index.html 首页文件
+┣style.css 首页文件的样式表
+┣js.js 首页的脚本文件
+┣tip.js 首页输入框脚本文件
+┗┓sql 文件夹（数据库指令）
+   ┣sql.sql
